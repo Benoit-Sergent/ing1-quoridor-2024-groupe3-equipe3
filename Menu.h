@@ -1,0 +1,6 @@
+#ifndef ING1_QUORIDOR_2024_GROUPE3_EQUIPE3_MENU_H
+#define ING1_QUORIDOR_2024_GROUPE3_EQUIPE3_MENU_H
+#include <stdbool.h>
+#include <stdio.h>
+bool menu();
+#endif //ING1_QUORIDOR_2024_GROUPE3_EQUIPE3_MENU_H
